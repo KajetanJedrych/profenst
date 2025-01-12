@@ -10,13 +10,13 @@ const Gallery = () => {
   const [touchEnd, setTouchEnd] = useState(null);
 
   const images = [
-    { src: "/assets/Drzwi.jpg", alt: "Okno 1" },
-    { src: "/assets/home.jpg", alt: "Okno 2" },
-    { src: "/assets/okno.jpg", alt: "Okno 3" },
-    { src: "/assets/1.jpg", alt: "Okno 4" },
-    { src: "/assets/2.jpg", alt: "Okno 5" },
-    { src: "/assets/3.jpg", alt: "Okno 6" },
-    { src: "/assets/4.jpg", alt: "Okno 7" },
+    { src: "Drzwi.jpg", alt: "Okno 1" },
+    { src: "home.jpg", alt: "Okno 2" },
+    { src: "okno.jpg", alt: "Okno 3" },
+    { src: "1.jpg", alt: "Okno 4" },
+    { src: "2.jpg", alt: "Okno 5" },
+    { src: "3.jpg", alt: "Okno 6" },
+    { src: "4.jpg", alt: "Okno 7" },
   ];
 
   const checkScroll = () => {
