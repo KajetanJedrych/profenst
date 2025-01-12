@@ -8,8 +8,8 @@ import Contact from './components/Contact';
 const App = () => (
   <div>
     <Header />
-    <Services />
     <About />
+    <Services />
     <Gallery />
     <Contact />
   </div>
