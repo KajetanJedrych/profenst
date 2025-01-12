@@ -12,7 +12,7 @@ const Gallery = () => {
   const images = [
     { src: "Drzwi.jpg", alt: "Okno 1" },
     { src: "home.jpg", alt: "Okno 2" },
-    { src: "okno.jpg", alt: "Okno 3" },
+    { src: "Okno.jpg", alt: "Okno 3" },
     { src: "1.jpg", alt: "Okno 4" },
     { src: "2.jpg", alt: "Okno 5" },
     { src: "3.jpg", alt: "Okno 6" },

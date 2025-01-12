@@ -6,7 +6,7 @@ const About = () => (
       <div className="w-full md:w-1/2 relative">
         <div className="absolute inset-0 bg-green-600 rounded-xl transform rotate-3 opacity-20"></div>
         <img 
-          src="/assets/main photo.jpg"
+          src="main photo.jpg"
           alt="Zdjęcie firmy" 
           className="relative w-full rounded-xl shadow-xl"
         />
