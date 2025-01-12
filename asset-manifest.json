@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/profenst/static/css/main.80fc3484.css",
-    "main.js": "/profenst/static/js/main.6d772d81.js",
+    "main.js": "/profenst/static/js/main.076dc041.js",
     "index.html": "/profenst/index.html",
     "main.80fc3484.css.map": "/profenst/static/css/main.80fc3484.css.map",
-    "main.6d772d81.js.map": "/profenst/static/js/main.6d772d81.js.map"
+    "main.076dc041.js.map": "/profenst/static/js/main.076dc041.js.map"
   },
   "entrypoints": [
     "static/css/main.80fc3484.css",
-    "static/js/main.6d772d81.js"
+    "static/js/main.076dc041.js"
   ]
 }
