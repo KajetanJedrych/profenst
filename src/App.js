@@ -5,6 +5,7 @@ import About from './components/About';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
 import ReactGA from 'react-ga';
+import Footer from './components/Footer';
 
 // Inicjalizacja Google Analytics z Twoim ID śledzenia
 ReactGA.initialize('G-2GRZY4Q1FJ'); // Zamień na swoje ID śledzenia
@@ -19,6 +20,7 @@ const App = () => (
     <Services />
     <Gallery />
     <Contact />
+    <Footer />
   </div>
 );
 

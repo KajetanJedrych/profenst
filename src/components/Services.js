@@ -7,18 +7,18 @@ const Services = () => (
       <h2 className="text-4xl font-bold text-center text-green-800 mb-12">Nasze usługi</h2>
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
         {[
-          "Okresowy przegląd techniczny okien",
+          "Okresowy przegląd techniczny okien i drzwi",
           "Diagnostyka problemów z izolacją termiczną i akustyczną",
-          "Czyszczenie i konserwacja okien",
-          "Regulacja okien",
-          "Modernizacja okien",
+          "Czyszczenie i konserwacja okien i drzwi",
+          "Regulacja okien i drzwi",
+          "Modernizacja okien i drzwi",
           "Montaż dodatkowych zabezpieczeń",
           "Usuwanie parowania szyb",
-          "Doradztwo w wyborze okien",
-          "Przygotowanie okien do sezonu",
-          "Usuwanie szkód mechanicznych",
+          "Doradztwo w wyborze okien i drzwi",
+          "Przygotowanie okien i drzwi do sezonu",
+          "Montowanie nawiewników",
           "Montaż moskitier i rolet",
-          "Serwis okien zabytkowych"
+          "Serwis okien i drzwi zabytkowych"
         ].map((service, index) => (
           <div 
             key={index}

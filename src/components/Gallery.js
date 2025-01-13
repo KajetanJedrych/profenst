@@ -87,7 +87,7 @@ const Gallery = () => {
   return (
     <section className="py-8 md:py-12 bg-green-50">
       <h2 className="text-3xl font-bold text-center mb-8 text-green-800">
-        Nasza Galeria
+        Galeria
       </h2>
 
       {selectedImage && (
