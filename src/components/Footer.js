@@ -7,7 +7,7 @@ const Footer = () => (
       <div className="flex justify-center items-center space-x-2 text-sm md:text-base">
         <span>Created by</span>
         <a 
-          href="https://kajetanjedrych.pl" 
+          href="https://www.jedrychk.com/" 
           target="_blank" 
           rel="noopener noreferrer"
           className="font-medium hover:text-green-300 transition-colors duration-200 flex items-center"

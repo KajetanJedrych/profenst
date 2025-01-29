@@ -6,7 +6,7 @@ const Header = () => {
   const [copied, setCopied] = useState(false);
 
   const handleCopy = () => {
-    navigator.clipboard.writeText("+123456789").then(() => {
+    navigator.clipboard.writeText("+48601615371").then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 2000);
     });
@@ -27,7 +27,7 @@ const Header = () => {
             onClick={handleCopy} 
             className="group flex items-center space-x-2 bg-white/10 hover:bg-white/20 px-6 py-3 rounded-lg transition-all duration-200"
           >
-            <span className="text-xl font-medium">+123 456 789</span>
+            <span className="text-xl font-medium">+48 601 615 371</span>
             {copied ? (
               <Check className="w-5 h-5 text-green-300" />
             ) : (
