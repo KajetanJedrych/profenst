@@ -6,7 +6,7 @@ const About = () => (
       <div className="w-full md:w-1/2 relative">
         <div className="absolute inset-0 bg-green-600 rounded-xl transform rotate-3 opacity-20"></div>
         <img 
-          src="main photo.jpg"
+          src="logo12.jpg"
           alt="Zdjęcie firmy" 
           className="relative w-full rounded-xl shadow-xl"
         />
@@ -15,7 +15,7 @@ const About = () => (
         <h2 className="text-4xl font-bold text-green-800">O nas</h2>
         <div className="w-20 h-1 bg-green-600 rounded-full"></div>
         <p className="text-lg text-gray-700 leading-relaxed">
-          Jesteśmy firmą z wieloletnim doświadczeniem w branży stolarki okiennej. 
+          Jesteśmy firmą z wieloletnim doświadczeniem w branży stolarkls okiennej. 
           Dbamy o jakość i zadowolenie klienta. Nasza pasja do perfekcji i innowacji 
           pozwala nam dostarczać rozwiązania, które przekraczają oczekiwania.
         </p>
